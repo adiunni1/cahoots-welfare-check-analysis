@@ -187,6 +187,6 @@ partial year of operations. All longitudinal visualizations annotate this.
 
 ## Contact
 
-Advait Unni | advaitunni | Student ID: 951930906  
+Adi Unni | aunni | Student ID: 951930906  
 DSCI 410L, University of Oregon, Spring 2026  
 GitHub: https://github.com/adiunni1/cahoots-welfare-check-analysis
