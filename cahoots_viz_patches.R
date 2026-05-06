@@ -16,7 +16,7 @@ n_epd     <- format(sum(wc$agency == "EPD"),     big.mark = ",")
 n_cahoots <- format(sum(wc$agency == "CAHOOTS"), big.mark = ",")
 
 # -----------------------------------------------------------------------------
-# VIZ 1 PATCH — Add explicit "0%" label on CAHOOTS Arrest bar
+# VIZ 1 PATCH — Add explicit 0% label on CAHOOTS arrest bar. 
 # -----------------------------------------------------------------------------
 
 viz1_patched <- outcome_by_agency %>%
